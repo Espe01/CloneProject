@@ -16,4 +16,4 @@ plot.grid(True, which ='both')
 plot.axhline(y=0, color='k')
 plot.show()
 
-#source:
+#source: https://pythontic.com/visualization/charts/sinewave
